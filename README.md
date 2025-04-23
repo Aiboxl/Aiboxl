@@ -45,11 +45,11 @@
 ## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiboxl&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiboxl&layout=compact&theme=tokyonight&hide=html&count_private=true&show_icons=true&include_all_commits=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aiboxl&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+</div> 
