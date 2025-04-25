@@ -10,10 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aiboxl&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/api?user=Aiboxl" alt="GitHub Streak" />
-</div>
-
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
