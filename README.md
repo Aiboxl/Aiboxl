@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/api?user=Aiboxl&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/api?user=Aiboxl" alt="GitHub Streak" />
 </div>
 
 ## 🛠️ Skills & Tools
